@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 30px;
+    color: #475584
+
+}
+ .row{
+    margin-top: calc(100vh - 200px);
+    display: flex;
+    justify-content: center;
+    align-items: center;v
+    
+
+ }
